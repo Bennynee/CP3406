@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75927538374",
+    "project_id": "reading-app-7902e",
+    "storage_bucket": "reading-app-7902e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75927538374:android:8432c0c00cdb5ce63065c7",
+        "android_client_info": {
+          "package_name": "com.readingjournal.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB25rzRvw9tK3zaXhcxNRVnoH8FafXXFvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

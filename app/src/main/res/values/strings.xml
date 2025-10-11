@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Reading Journal</string>
+    <string name="home">Home</string>
+    <string name="journal">Journal</string>
+    <string name="progress">Progress</string>
+    <string name="profile">Profile</string>
+    <string name="currently_reading">Currently Reading</string>
+    <string name="add_new_book">Add New Book</string>
+    <string name="my_journal">My Journal</string>
+    <string name="new_entry">New Entry</string>
+    <string name="reading_progress">Reading Progress</string>
+    <string name="statistics">Statistics</string>
+    <string name="ai_suggestions">AI Suggestions</string>
+    <string name="book_title">Book Title</string>
+    <string name="author">Author</string>
+    <string name="pages_read">Pages Read</string>
+    <string name="total_pages">Total Pages</string>
+    <string name="rating">Rating</string>
+    <string name="notes">Notes</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="search_books">Search books...</string>
+    <string name="no_books_found">No books found. Start your reading journey!</string>
+    <string name="no_journal_entries">No journal entries yet. Start documenting your reading thoughts!</string>
+    <string name="welcome_message">Welcome to your personal reading journey</string>
+    <string name="books_read_this_month">Books read this month</string>
+    <string name="pages_read_this_month">Pages read this month</string>
+    <string name="reading_streak">Reading streak</string>
+    <string name="days">days</string>
+    <string name="total_books">Total Books</string>
+    <string name="average_rating">Average Rating</string>
+</resources>
