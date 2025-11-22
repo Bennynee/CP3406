@@ -4,7 +4,7 @@ A modern Android reading app with intuitive navigation, emphasis on personal jou
 
 ## Features
 
-### ✅ Core Features (Free Access)
+### Core Features
 - **Firebase Authentication**: Secure user login/signup with email and password
 - **Barcode Scanner**: Scan book ISBNs to quickly add books to your library
 - **Google Books API Integration**: Fetch book details automatically
@@ -15,7 +15,7 @@ A modern Android reading app with intuitive navigation, emphasis on personal jou
 - **RecyclerView Optimization**: Efficient book list display with smooth scrolling
 - **LiveData Integration**: Reactive UI updates with proper lifecycle management
 
-### 🚀 Planned Features
+### Planned Features
 - **Social Sharing**: Share reading progress and favorite quotes
 - **Book Club Integration**: Join book clubs and participate in discussions
 - **Advanced AI Features**: Reading habit analysis and personalized recommendations
@@ -174,11 +174,3 @@ The app requires Firebase for authentication and data storage. Follow the detail
    - Full offline functionality
    - Data synchronization
    - Backup and restore
-
-## Contributing
-
-This is a demo project showcasing modern Android development practices. Feel free to use it as a reference or starting point for your own reading apps.
-
-## License
-
-This project is for educational and demonstration purposes.
